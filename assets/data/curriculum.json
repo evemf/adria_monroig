@@ -1,0 +1,81 @@
+{
+    "theater": [
+        {
+            "year": "2024",
+            "title": "Y no quedará ninguno",
+            "venue": "Sala Ars, Bcn"
+        },
+        {
+            "year": "2022 - 2024",
+            "title": "La Llibreria Màgica",
+            "venue": "Teatreneu, Bcn"
+        },
+        {
+            "year": "2023",
+            "title": "Turandot",
+            "venue": "Gran Teatre del Liceu, Bcn"
+        },
+        {
+            "year": "2023",
+            "title": "El Bosc dels Somnis",
+            "venue": "Masia Can Julià, Sant Boi de Llobregat"
+        },
+        {
+            "year": "2023",
+            "title": "Fem sortir els colors del gris",
+            "venue": "Tota l'AMB, Bcn"
+        },
+        {
+            "year": "2022",
+            "title": "Muses i Musaranyes",
+            "venue": "Centre cívic Vil•la Florida, Bcn"
+        },
+        {
+            "year": "2021",
+            "title": "Antígona",
+            "venue": "Nau Ivanow, Bcn"
+        },
+        {
+            "year": "2020",
+            "title": "Kill Ill, la visita de la vella dama",
+            "venue": "Nau Ivanow, Bcn"
+        },
+        {
+            "year": "2019",
+            "title": "El Casament dels Petits Burgesos",
+            "venue": "Teatre del Sol, Sabadell"
+        }
+    ],
+    "tv": [
+        {
+            "year": "2024",
+            "title": "Com si fós ahir",
+            "network": "TV3, Bcn"
+        }
+    ],
+    "advertising": [
+        {
+            "year": "2023",
+            "title": "Asahi"
+        },
+        {
+            "year": "2022",
+            "title": "Patinete eléctrico",
+            "client": "Gencat"
+        },
+        {
+            "year": "2021",
+            "title": "Gerblé"
+        }
+    ],
+    "film": [
+        {
+            "year": "2018 - 2024",
+            "description": "20 cortometrajes aproximadamente."
+        },
+        {
+            "year": "2024",
+            "description": "Grabaciones corporativas para la universidad Alfonso X El Sabio."
+        }
+    ]
+}
