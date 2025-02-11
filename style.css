@@ -227,9 +227,11 @@ p {
 @media (max-width: 768px) {
     .site-header {
         height: 10px;
+        margin-top: 50px;
     }
     .site-header.active {
         height: 52px;
+        margin-top: 50px;
     }
     .logo-container {
         top: -50px;
